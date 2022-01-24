@@ -1,5 +1,5 @@
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Abril+Fatface&family=Anton&family=Bebas+Neue&family=Josefin+Sans&family=Lexend+Deca:wght@100;200;300&family=Livvic:wght@100&family=Manrope:wght@200&family=Montserrat:wght@300&family=Orelega+One&family=Poppins:wght@500&family=Roboto:wght@500&family=Ubuntu:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Abril+Fatface&family=Anton&family=Bebas+Neue&family=Inter:wght@200&family=Josefin+Sans&family=Lexend+Deca:wght@100;200;300&family=Livvic:wght@100&family=Manrope:wght@200&family=Montserrat:wght@300&family=Orelega+One&family=Poppins:wght@500&family=Roboto:wght@500&family=Ubuntu:ital,wght@0,400;1,300&display=swap');
 
 /* Common utilities */
 body {
@@ -27,12 +27,15 @@ img{
 }
 .book-now-btn {
     font-family: 'Poppins', sans-serif;
-    color: #19B5BC;
     background-color: #FFFFFF;
     width: 168px;
     height: 44px;
     padding: 10px;
     border-radius: 5px;
+}
+.book-now-btn a{
+     text-decoration: none;
+     color: #19B5BC;
 }
 
 /* Package section */
@@ -68,6 +71,7 @@ img{
     width: 275px;
     height: 480px;
     color: white;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     background-color: #3f88f5af;
     border-radius: 26px;
 }
@@ -86,4 +90,17 @@ img{
     height: 45px;
     color: white;
     border-radius: 24px;
+}
+
+/* FAQ section */
+
+.accordion-button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.fa-question-circle {
+    width: 25px;
+    height: 20px;
+    color: #19b4bc83;
 }
