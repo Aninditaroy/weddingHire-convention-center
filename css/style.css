@@ -20,11 +20,8 @@ body {
 }
 
 /* Carousel Image slider */
-img{
-    width: 1440px;
-    height: 584px;
-    border-radius: 0px 0px 5px 5px;
-}
+
+
 .book-now-btn {
     font-family: 'Poppins', sans-serif;
     background-color: #FFFFFF;
@@ -103,4 +100,27 @@ img{
     width: 25px;
     height: 20px;
     color: #19b4bc83;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    background-color: #19b4bc5e;
+}
+
+.copyright, 
+.apps {
+    padding-top: 120px;
+}
+.apps img {
+    width: 135px;
+    height: 40px;
+}
+
+/* Media Queries */
+@media only screen and (max-width:576px) {
+    .carousel img{
+        height: 584px;
+        border-radius: 0px 0px 5px 5px;
+    }
 }
