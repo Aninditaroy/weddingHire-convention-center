@@ -35,3 +35,27 @@ img{
     border-radius: 5px;
 }
 
+/* Package section */
+.package-title {
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+}
+
+.package-btn {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    width: 207px;
+    height: 45px;
+    color: white;
+    background-color: #19B5BC;
+    border-radius: 24px;
+}
+
+.fa-check-circle {
+    width: 20px;
+    height: 20px;
+    color: #19B5BC;
+}
