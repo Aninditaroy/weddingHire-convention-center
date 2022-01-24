@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Pre-Wedding Fun Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Topics_Section" transform="translate(-90.000000, -125.000000)">
+            <g id="Pre-Wedding-Fun-Icon" transform="translate(90.000000, 125.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F4EFE6" xlink:href="#path-1"></use>
+                <g id="Group-21" mask="url(#mask-2)">
+                    <g transform="translate(1.250000, 23.750000)">
+                        <polygon id="Fill-1" fill="#01B4C0" points="42.5 9.00319195 49.7696539 27.5 57.5 8.75"></polygon>
+                        <polygon id="Fill-2" fill="#C5E3EA" points="26.25 7.5 29.4762659 27.5 40 9.9717414"></polygon>
+                        <polygon id="Fill-3" fill="#01B4C0" points="10 2.5 11.1232187 22.5 23.75 6.48978247"></polygon>
+                        <polygon id="Fill-4" fill="#C5E3EA" points="73.75 7.5 70.5243459 27.5 60 9.9717414"></polygon>
+                        <polygon id="Fill-5" fill="#01B4C0" points="90 2.5 88.8767144 22.5 76.25 6.48978247"></polygon>
+                        <g id="Group-20" stroke-width="1" fill="none">
+                            <path d="M8.16115702e-05,0.271869231 C8.16115702e-05,0.271869231 45.5246477,22.4729077 98.3069308,0.271869231" id="Stroke-6" stroke="#003B57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polygon id="Fill-8" fill="#01B4C0" points="42.3066219 34.0908346 49.2093285 52.4997577 56.5494731 33.8388346"></polygon>
+                            <polygon id="Fill-10" fill="#C5E3EA" points="26.0775083 32.2214308 29.3713512 51.5866615 40.1155145 34.6162385"></polygon>
+                            <polygon id="Fill-12" fill="#01B4C0" points="9.93539256 28.0015615 11.0534711 47.6058692 23.622469 31.9124077"></polygon>
+                            <polygon id="Fill-14" fill="#C5E3EA" points="73.389939 32.2214308 70.0969122 51.5866615 59.352749 34.6162385"></polygon>
+                            <polygon id="Fill-16" fill="#01B4C0" points="89.5321364 28.0015615 88.4140579 47.6058692 75.845876 31.9124077"></polygon>
+                            <path d="M8.16115702e-05,24.5988346 C8.16115702e-05,24.5988346 45.5246477,46.7998731 98.3069308,24.5988346" id="Stroke-18" stroke="#003B57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
