@@ -34,6 +34,14 @@ body {
      text-decoration: none;
      color: #19B5BC;
 }
+/* Toast position */
+.toast-area {
+    position: absolute;
+    right: 0;
+}
+.fa-gift {
+    color: #19B5BC;
+}
 
 /* Package section */
 .section-title {
