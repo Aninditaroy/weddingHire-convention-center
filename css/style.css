@@ -18,3 +18,20 @@ body {
 .nav-item {
     font-family: 'Poppins', sans-serif;
 }
+
+/* Carousel Image slider */
+img{
+    width: 1440px;
+    height: 584px;
+    border-radius: 0px 0px 5px 5px;
+}
+.book-now-btn {
+    font-family: 'Poppins', sans-serif;
+    color: #19B5BC;
+    background-color: #FFFFFF;
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
