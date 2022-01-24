@@ -110,6 +110,14 @@ body {
     color: #19b4bc83;
 }
 
+/* Expert section */
+.about p {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.about img{
+    width: 75px;
+}
 /* Contact section */
 
 .contact-title {
